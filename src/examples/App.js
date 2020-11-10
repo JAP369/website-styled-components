@@ -1,7 +1,7 @@
 import './App.css';
 // import { Button, SecondButton } from './Button';
 // import Header from './components/Header';
-import AltHeader from './examples/AltHeader';
+import AltHeader from './Examples/AltHeader';
 import {
   // PropsButton,
   // BigButton,
